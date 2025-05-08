@@ -1,0 +1,15 @@
+# Ignore build output
+/target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore compiled class files
+*.class
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore logs
+*.log
