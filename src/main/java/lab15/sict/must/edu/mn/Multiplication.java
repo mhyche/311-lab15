@@ -1,6 +1,6 @@
 package lab15.sict.must.edu.mn;
 /**
- * Multiplies two numbers and returns the result.
+ * Multiply two double values and return product.
  */
 
 public class Multiplication {
